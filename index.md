@@ -3,11 +3,11 @@ layout: default
 title: "My Home Page"
 ---
 
-This is my website
+This is Ty's Website
 
-[Link to another page](./another-page.html).
+[Here's a cool cat video](https://www.youtube.com/watch?v=JxS5E-kZc2s).
 
-There should be whitespace between paragraphs.
+
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
@@ -21,7 +21,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-![Ty and Waldo](assets/images/me_n_waldo.png)
+![Ty-and-Waldo](assets/images/me_n_waldo.png)
+
 ### Header 3
 
 ```js
