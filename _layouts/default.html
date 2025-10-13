@@ -21,7 +21,7 @@
       <h2>BY:{{ site.author }}</h2>
       {% if site.logo %}
 <div style="text-align: center;">
-  <img src="assets/img/your-image.jpg" alt="Me and Waldo at Weber" style="max-width: 80%; border-radius: 8px;">
+  <img src="{{site.logo | relative_url}}" alt="Logo" />
 </div>
 
 
