@@ -3,9 +3,13 @@ layout: default
 title: "My Home Page"
 ---
 
-This is Ty's Website
 
-[Here's a cool cat video](https://www.youtube.com/watch?v=JxS5E-kZc2s).
+
+# This is Ty's Website, Welcome
+
+
+
+Take this weary traveler [![A necessary tool](/assets/img/assets/img/wooden_sword_by_trulymalicious_dgccm7n-fullview.png)](https://www.youtube.com/watch?v=JxS5E-kZc2s)
 
 
 
