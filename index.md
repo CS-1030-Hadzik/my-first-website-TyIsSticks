@@ -9,7 +9,7 @@ This is Ty's Website, Welcome
 
 
 
-Take this weary traveler [![A necessary tool](/assets/img/assets/img/wooden_sword_by_trulymalicious_dgccm7n-fullview.png)](https://www.youtube.com/watch?v=JxS5E-kZc2s)
+Take this weary traveler [![A necessary tool](/assets/img/wooden_sword_by_trulymalicious_dgccm7n-fullview.png)](https://www.youtube.com/watch?v=JxS5E-kZc2s)
 
 
 
