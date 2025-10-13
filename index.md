@@ -5,7 +5,7 @@ title: "My Home Page"
 
 
 
-# This is Ty's Website, Welcome
+This is Ty's Website, Welcome
 
 
 
@@ -13,11 +13,11 @@ Take this weary traveler [![A necessary tool](/assets/img/assets/img/wooden_swor
 
 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# About Me
+
+I'm currently a CS major at Weber State University and a Data Analyst Intern. I enjoy road biking, VR gaming, and pickleball. I aim to keep learning and be able to create things and solve problems that help people in their everyday lives.
 
 ## Header 2
 
